@@ -13,7 +13,6 @@ A collective list of free subdomains for use on personal sites, open source proj
 <!-- START LIST -->
  | Domain | About | Repository | Current status | 
  |--------|-------|------------|----------------|
- | [is-an.app](https://is-an.app/) |  Are you a developer exploring an awesome domain name for your application, personal website, or project? You came to the right place! This service offers a handy subdomain service for you to have a subdomain via CNAME, A, AAAA, or NS DNS records. In limited cases, you can use a wildcard subdomain.  | [tarampampam/free-domains](https://github.com/tarampampam/free-domains) | ✅  |
  | [cluster.ws](https://cluster.ws/) & [wip.la](https://wip.la/) | For IT enthusiasts who need a temporary domain name or those who can't or don't want to pay for a top level domain | [Olivr/free-domain](https://github.com/Olivr/free-domain) | ✅ |
  | [thedev.id](https://thedev.id/) | An identity for developers on the web. | [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id) | ✅ |
  | [dee.al](https://domain.dee.al/) | We provide free domain for web developer Create free domain ENJOY | [dee-al/domain.dee.al](https://github.com/dee-al/domain.dee.al) | ✅ |
@@ -31,6 +30,7 @@ A collective list of free subdomains for use on personal sites, open source proj
  | [runs-on.tech](http://runs-on.tech/) | Free 'runs-on.tech' subdomains for personal sites, open-source projects, and more. | [aakhilv/runs-on.tech](https://github.com/aakhilv/runs-on.tech) | ❌ |
  | [withcoding.me](http://withcoding.me/) | Free subdomain for everyone. | [JastinXyz/withcoding.me](https://github.com/JastinXyz/withcoding.me) | ❌ |
  | [tilde.tk](https://tilde.tk/) | In need of a cool subdomain? And want it to be your own UNIX home directory? Then tilde.tk (~.tk) is right for you | [youngchief-btw/tilde.tk](https://github.com/youngchief-btw/tilde.tk) | ❌ |
+ | [is-an.app](https://is-an.app/) |  Are you a developer exploring an awesome domain name for your application, personal website, or project? You came to the right place! This service offers a handy subdomain service for you to have a subdomain via CNAME, A, AAAA, or NS DNS records. In limited cases, you can use a wildcard subdomain.  | [tarampampam/free-domains](https://github.com/tarampampam/free-domains) | ❌  |
  <!-- END LIST -->
 
 <br />
